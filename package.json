@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "lodash": "^4.17.3"
+  },
+  "name": "simple-webpack-html-entrypoint",
+  "version": "1.0.1",
+  "description": "simple-webpack-html-entrypoint",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fumeboy/SimpleWebpackHTMLEntrypoint.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fumeboy/SimpleWebpackHTMLEntrypoint/issues"
+  },
+  "homepage": "https://github.com/fumeboy/SimpleWebpackHTMLEntrypoint#readme"
+}
