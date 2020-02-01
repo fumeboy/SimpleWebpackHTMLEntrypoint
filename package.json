@@ -3,7 +3,7 @@
     "lodash": "^4.17.3"
   },
   "name": "simple-webpack-html-entrypoint",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "simple-webpack-html-entrypoint",
   "main": "index.js",
   "devDependencies": {},
